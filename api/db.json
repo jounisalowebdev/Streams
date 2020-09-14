@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "Streaming some Warzone",
+      "description": "Lorem ipsum dolor sit amet Warzone with the boyz",
+      "userId": "104587742808704500820",
+      "id": 12
+    },
+    {
+      "title": "Pewdiepie Minecraft",
+      "description": "Playing Minecraft with the bros",
+      "userId": "104587742808704500820",
+      "id": 13
+    },
+    {
+      "title": "Sips plays Skyrim",
+      "description": "Skyrim lorem ipsum looolloollololo",
+      "userId": "104587742808704500820",
+      "id": 14
+    }
+  ]
+}
